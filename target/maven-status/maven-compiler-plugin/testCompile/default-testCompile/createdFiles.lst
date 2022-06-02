@@ -1,2 +1,5 @@
-des\agendatest\daotest\TestAgendaDaoExcel.class
-des\agendatest\daotest\TestAgendaDaoArrayList.class
+ed\agendatest\daotest\TestAgendaDaoArrayList.class
+ed\agendatest\entidades\TestAgendaDaoEntidades.class
+ed\agendatest\excepciones\TestAgendaDaoExcepciones.class
+ed\agendatest\test\TestAgendaTest.class
+ed\agendatest\daotest\TestAgendaDaoExcel.class

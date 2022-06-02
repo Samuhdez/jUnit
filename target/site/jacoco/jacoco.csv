@@ -2,8 +2,8 @@ GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_
 AgendaTest,ed.agenda.excepciones,ContactoNoEncontradoException,3,0,0,0,1,0,1,0,1,0
 AgendaTest,ed.agenda.excepciones,PosicionNoEncontradaException,3,0,0,0,1,0,1,0,1,0
 AgendaTest,ed.agenda.entidades,Contacto,60,29,10,0,13,7,9,4,4,4
-AgendaTest,ed.agenda.entidades,ContactoPersona,84,23,9,1,17,9,9,5,4,5
+AgendaTest,ed.agenda.entidades,ContactoPersona,90,17,9,1,19,7,11,3,6,3
 AgendaTest,ed.agenda.entidades,ContactoEmpresa,60,57,6,2,15,15,8,6,5,5
 AgendaTest,ed.agenda,agendatest,355,0,17,0,94,0,15,0,2,0
-AgendaTest,ed.agenda.dao,AgendaDaoExcel,76,379,10,16,28,95,15,9,5,6
-AgendaTest,ed.agenda.dao,AgendaDaoArrayList,172,22,21,1,32,6,19,4,8,4
+AgendaTest,ed.agenda.dao,AgendaDaoExcel,169,323,14,18,50,83,18,9,5,6
+AgendaTest,ed.agenda.dao,AgendaDaoArrayList,200,41,28,2,40,11,23,4,8,4

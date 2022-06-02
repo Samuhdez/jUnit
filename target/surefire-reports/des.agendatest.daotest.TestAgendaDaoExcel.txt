@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: des.agendatest.daotest.TestAgendaDaoExcel
 -------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.633 sec
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.022 sec
